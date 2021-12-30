@@ -43,7 +43,7 @@ body {
     display: flex;
     background-color: #1F2937;
     height: 300px;
-    padding: 50px 100px;
+    padding: 100px 100px;
 }
 
 .hero-left {
@@ -60,6 +60,7 @@ body {
 .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 10px;
 }
 
 .hero-button {
@@ -73,7 +74,12 @@ body {
 }
 
 .hero-image {
-    width: 300px;
+    width: 900px;
+    background-color: gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 a:link {
