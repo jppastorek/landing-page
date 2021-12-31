@@ -83,6 +83,47 @@ body {
     justify-content: center;
 }
 
+
+/*----------------INFORMATION-----------------*/
+
+.information-container {
+    background-color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 150px 100px 150px;
+}
+
+.information-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3882F6;
+    margin-bottom: 10px;
+}
+
+.information-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    color: #1F2937;
+}
+
 a:link {
     text-decoration: none;
     color: #E5E7EB;
