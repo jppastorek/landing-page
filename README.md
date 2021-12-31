@@ -12,3 +12,5 @@ I was struggling to figure how to group items. I went with two divs: one for the
 
 
 30-Dec 9:30pm - I am working on the call to action. I am getting worried about aligning things properly. I am learning that literally the most important thing before building a website is having a wireframe and mockup. It would be really hard to do this without images to base it off of.
+
+30-Dec 9:45pm - Finished. Still cannot get the quote author to align. Also cannot get the hero to align. I'll come back to polish up tomorrow.

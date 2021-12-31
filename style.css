@@ -157,15 +157,41 @@ body {
 
 .cta-container {
     background-color: #F9FAF8;
-    height: 300px;
-    padding: 100px 275px;
+    height: 150px;
+    padding: 100px 220px;
 }
 
 .cta-content {
     background-color: #3882F6;
-    border-radius: 5px;
-    padding: 30px 75px;
-    height: 200px;
+    border-radius: 7px;
+    padding: 30px 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cta-main-text {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cta-secondary-text {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.cta-button {
+    border-style: solid;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 
