@@ -147,9 +147,13 @@ body {
 .quote-author {
     font-weight: 700;
     font-size: 24px;
-    /* display: flex;
+    text-align: right;
+    width: 700px;
+    /*This moves it to the right, but not sure this is the best way. */
+    /*display: flex;
     flex-direction: row;
-    justify-content: flex-end;    I think this should push the author over, but it does not. */
+    justify-content: flex-end;
+    I think this should push the author over, but it does not. */
 }
 
 
